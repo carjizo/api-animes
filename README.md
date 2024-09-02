@@ -1,5 +1,5 @@
 # api-animes
-API to get the links of the servers of the episodes of an anime.
+API developed with FastAPI to obtain the links to the servers of the episodes of an anime.
 
 Library that was used:
 https://github.com/jorgeajimenezl/animeflv-api
